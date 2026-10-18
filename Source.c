@@ -7,7 +7,7 @@ void main()
 	system("chcp 1251");
 	float n, res, i;
 	res = 1;
-	printf("Введте n ");
+	printf("Р’РІРµРґС‚Рµ n ");
 	scanf("%f", &n);
 	for (i = 1;i < n;i += 0.1) {
 		res *= i;
